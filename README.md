@@ -32,7 +32,7 @@ This project delivers a clean, professional, and user-friendly design to showcas
 ---
 
 ## 📂 Project Structure
-```
+
 
 University\_UI/
 ├── index.html
@@ -42,7 +42,7 @@ University\_UI/
 │   └── /images
 └── README.md
 
-````
+
 
 ---
 
@@ -72,3 +72,4 @@ Follow these steps to run the project locally:
 3. Open `index.html` in your preferred browser.
 
 Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**
+
