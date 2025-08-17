@@ -53,7 +53,7 @@ Example:
 ![Homepage Screenshot](assets/images/screenshot.png)
 
 ---
-
+```
 ## 📌 Getting Started
 
 Follow these steps to run the project locally:
@@ -61,15 +61,13 @@ Follow these steps to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Soumya-Das-2006/University-Website-UI-.git
-````
-
+   ```
 2. Navigate to the project folder:
 
    ```bash
-   cd University-Website-UI-
+   cd University-Website-UI
    ```
 
 3. Open `index.html` in your preferred browser.
 
 Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**
-
