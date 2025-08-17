@@ -1,6 +1,4 @@
-Perfect 👍 Here’s your **final polished README.md file** in English, professional style, with **no license section** (since you don’t want one).
-
----<h1><center>🎓 University Website UI</center></h1>
+<h1><center>🎓 University Website UI</center></h1>
 
 ```markdown
 # 🎓 University Website UI
@@ -73,22 +71,4 @@ Follow these steps to run the project locally:
 
 3. Open `index.html` in your preferred browser.
 
-Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork this repository, make improvements, and submit a pull request.
-
-```
-
----
-
-👉 Ab aap bas is file ka content copy karke apne `README.md` me paste kar do.  
-
-Kya aap chahte ho main aapko **PowerShell ke exact commands** bata du jisse aap turant ye updated README GitHub pe push kar do?
-```
-
-
+Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**
