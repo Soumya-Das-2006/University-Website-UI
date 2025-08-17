@@ -5,7 +5,7 @@
 
 A modern and fully responsive **University Website User Interface** built with HTML, CSS, and JavaScript.  
 This project delivers a clean, professional, and user-friendly design to showcase university information such as courses, departments, events, and admissions.
-
+```
 🌐 **Live Demo:** [View Here](https://soumya-das-2006.github.io/University-Website-UI/)
 
 ---
@@ -71,3 +71,4 @@ Follow these steps to run the project locally:
 3. Open `index.html` in your preferred browser.
 
 Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**
+
