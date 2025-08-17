@@ -3,7 +3,7 @@ Perfect 👍 Here’s your **final polished README.md file** in English, profess
 ---
 
 ```markdown
-# 🎓 University Website UI
+# <h1>🎓 University Website UI</h1>
 
 A modern and fully responsive **University Website User Interface** built with HTML, CSS, and JavaScript.  
 This project delivers a clean, professional, and user-friendly design to showcase university information such as courses, departments, events, and admissions.
@@ -90,3 +90,4 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 
 Kya aap chahte ho main aapko **PowerShell ke exact commands** bata du jisse aap turant ye updated README GitHub pe push kar do?
 ```
+
