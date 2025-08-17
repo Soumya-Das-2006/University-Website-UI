@@ -49,7 +49,7 @@ University\_UI/
 _Add a screenshot or demo GIF of the homepage for better presentation._
 
 Example:  
-![Homepage Screenshot](<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8286236-f6a9-4087-a3f4-b4a1259d0517" />)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8286236-f6a9-4087-a3f4-b4a1259d0517" />
 
 ---
 ```
@@ -70,6 +70,7 @@ Follow these steps to run the project locally:
 3. Open `index.html` in your preferred browser.
 
 Or directly visit the **[Live Demo](https://soumya-das-2006.github.io/University-Website-UI/)**
+
 
 
 
